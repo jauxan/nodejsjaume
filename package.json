@@ -1,0 +1,16 @@
+{
+    "name": "nodej-image-demo",
+    "version": "1.0.0",
+    "description": "nodejs image demo",
+    "author": "pedro. segarra@ieselcaminas.org",
+    "license": "MIT",
+    "main": "app.js",
+    "keywords": [
+        "nodejs",
+        "bootstrap",
+        "express"
+    ],
+    "dependencies": {
+        "express": "4.18.2"
+    }
+}
